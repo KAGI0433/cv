@@ -29,3 +29,8 @@ body{
     background: yellowgreen;
     padding: 40px;
 }
+.container .right{
+    position: relative;
+    background: whitesmoke;
+    padding: 40px;
+}
