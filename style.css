@@ -11,6 +11,7 @@ body{
     align-items: center;
     min-height: 100vh;
 }
+
 .container{
     position: relative;
     width: 100%;
@@ -21,4 +22,10 @@ body{
     display: grid;
     grid-template-columns: 1fr 2fr;
     box-shadow: 0 35px 55px rgba( 0, 0, 0, 0.2);
+}
+
+.container .left{
+    position: relative;
+    background: yellowgreen;
+    padding: 40px;
 }
