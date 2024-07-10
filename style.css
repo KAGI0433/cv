@@ -98,5 +98,12 @@ body{
     cursor: pointer;
 }
 
+.Info ul li .icon{
+    display: inline-block;
+    width: 30px;
+    font-size: 20px;
+    color: azure;
+}
+
 
 
