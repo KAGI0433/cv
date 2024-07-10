@@ -173,4 +173,16 @@ p{
     color: darkolivegreen;
     font-weight: 600;
 }
+.skills .box{
+    position: relative;
+    width: 100%;
+    display: grid;
+    grid-template-columns: 150px 1fr;
+    justify-content: center;
+    align-items: center;
+}
+.skills .box{
+    
+
+}
 
