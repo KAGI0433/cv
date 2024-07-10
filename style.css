@@ -105,5 +105,22 @@ body{
     color: azure;
 }
 
+.Info.education li{
+    margin-bottom: 15px;
+}
+
+.Info.education h5{
+    font-weight: 500;
+}
+
+.Info.education h4:nth-child(2){
+    color: azure;
+    font-weight: 500;
+}
+
+.Info.education  h4{
+    font-weight: 300;
+}
+
 
 
