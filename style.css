@@ -75,4 +75,22 @@ body{
     font-weight: 300;
 }
 
+.Info{
+    padding: 40px;
+}
+
+.title{
+    color: azure;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 0.4px;
+    margin-bottom: 20px;
+}
+
+.Info ul{
+    position: relative;
+}
+
+
+
 
