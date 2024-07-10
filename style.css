@@ -182,7 +182,8 @@ p{
     align-items: center;
 }
 .skills .box{
-    
-
+    text-transform: uppercase;
+    color: darkolivegreen;
+    font-weight: 500;
 }
 
