@@ -152,7 +152,20 @@ body{
     color: yellowgreen;
     text-transform: uppercase;
     margin-bottom: 10px;
-    
+
 }
 
+p{
+    color: black;
+}
+
+.about .box{
+    display: flex;
+    flex-direction: row;
+    margin: 20px 0;
+}
+
+.about .box .year_company{
+    min-width: ;
+}
 
