@@ -29,11 +29,7 @@ body{
     background: yellowgreen;
     padding: 40px;
 }
-.container .right{
-    position: relative;
-    background: whitesmoke;
-    padding: 40px;
-}
+
 .profiletext{
     position: relative;
     display: flex;
@@ -138,6 +134,25 @@ body{
     height: 100%;
     background: yellow;
 }
+.container .right{
+    position: relative;
+    background: whitesmoke;
+    padding: 40px;
+}
 
+.about{
+    margin-top: 50px;
+}
+
+.about:last-child{
+    margin-bottom: 0px;
+}
+
+.title2{
+    color: yellowgreen;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+    
+}
 
 
