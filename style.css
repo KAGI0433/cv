@@ -15,7 +15,7 @@ body{
 .container{
     position: relative;
     width: 100%;
-    min-width: 1000px;
+    max-width: 1000px;
     min-width: 1000px;
     background: whitesmoke;
     margin: 50px;
