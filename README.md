@@ -1,9 +1,9 @@
-📄 CV in HTML/CSS
+📄 CV IN HTML/CSS
 
 This project is a coded version of my CV, built entirely with HTML and CSS. It serves as both a resume and a demonstration of clean, semantic markup and responsive layout skills.
 
 
-🧠 Purpose
+🧠 PURPOSE
 
 ✅ Practice structuring a resume layout using HTML and CSS
 
@@ -15,15 +15,9 @@ This project is a coded version of my CV, built entirely with HTML and CSS. It s
 
 
 
-📦 Getting Started
+📦 GETTING STARTED 
 
 1. Clone the repository
-   
-bash
-
-Copy
-
-Edit
 
 git clone https://github.com/KAGI0433/cv.git
 
@@ -34,23 +28,17 @@ cd cv
    
 You can double-click index.html, or run a local server:
 
-bash
-
-Copy
-
-Edit
-
 Then visit: http://localhost:8000
 
 
-📁 Files
+📁 FILES
 
 index.html — Contains the resume content
 
 style.css — Custom styling for layout and responsiveness
 
 
-🧰 Tech Stack
+🧰 TECH STACK
 
 HTML5
 
